@@ -62,8 +62,8 @@ text
 
 ## 👤 Author
 
-- [Your Name Here]
-- [Your Email or GitHub Profile]
+- JANGAM BALACHANDRAMOHANREDDY
+balactuniversity@gmail.com
 
 ## 📄 License
 
